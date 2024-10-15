@@ -1,0 +1,3 @@
+# you can reverse the list or array by slicig 
+l=[1,2,3,4]
+print(::-1)
